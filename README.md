@@ -6,4 +6,4 @@ Current live coding environment. Mainly TidalCycles and SuperCollider.
 - Boot file for SuperCollider
 - Custom SynthDefs list
 
-Just simple stuff, nothing too exciting yet. I hope to overcome my laziness soon and add more interesting features (<-- this is a kind reminder to me).
+Just simple stuff, nothing too exciting yet. I hope to overcome my laziness and add more interesting features (<-- this is a kind reminder to me).
