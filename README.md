@@ -2,8 +2,8 @@
 Current live coding environment. Mainly TidalCycles and SuperCollider. 
 
 ## Uploaded files:
-- Boot file for TidalCycles 
-- Boot file for SuperCollider
+- Boot files for TidalCycles 
+- Boot files for SuperCollider
 - Custom SynthDefs list
 - Visuals and stuff
 
